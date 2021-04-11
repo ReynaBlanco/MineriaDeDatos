@@ -9,3 +9,4 @@
 
 [AVANCES_PIA](https://github.com/paolaim/mineria-datos/blob/gh-pages/Avance_PIA_equipo07.ipynb )
 
+[mapa mental] file:///C:/Users/mx8megig/Downloads/MapaMental_2_1744128.pdf
